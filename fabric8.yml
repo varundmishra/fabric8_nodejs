@@ -1,9 +1,9 @@
 ---
-buildName: "jstest"
+buildName: "gitjs"
 links:
-  Git: "http://gogs/varundmishra/fabric8_nodejs.git"
-  Job: "http://jenkins.fabric8-system.setapi.com/job/jstest"
-  Staging: "http://100.67.192.148:80/kubernetes/pods?namespace=fra-2-staging"
+  Git: "https://github.com/varundmishra/fabric8_nodejs.git"
+  Job: "http://100.71.249.80:80/job/gitjs"
+  Staging: "http://100.68.96.198:80/kubernetes/pods?namespace=fra-3-staging"
 environments:
-  Staging: "fra-2-staging"
+  Staging: "fra-3-staging"
 useLocalFlow: true
