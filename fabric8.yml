@@ -1,7 +1,7 @@
 ---
 buildName: "jstest"
 links:
-  Git: "https://github.com/varundmishra/fabric8_nodejs.git"
+  Git: "http://gogs/varundmishra/fabric8_nodejs.git"
   Job: "http://jenkins.fabric8-system.setapi.com/job/jstest"
   Staging: "http://100.67.192.148:80/kubernetes/pods?namespace=fra-2-staging"
 environments:
