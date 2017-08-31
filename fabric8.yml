@@ -1,0 +1,9 @@
+---
+buildName: "jstest"
+links:
+  Git: "https://github.com/varundmishra/fabric8_nodejs.git"
+  Job: "http://100.65.216.50:80/job/jstest"
+  Staging: "http://100.69.118.137:80/kubernetes/pods?namespace=fra-2-staging"
+environments:
+  Staging: "fra-2-staging"
+useLocalFlow: true
