@@ -1,7 +1,7 @@
 ---
 buildName: "nojs"
 links:
-  Git: "https://github.com/varundmishra/fabric8_nodejs.git"
+  Git: "http://gogs/varundmishra/fabric8_nodejs.git"
   Job: "http://100.65.145.129:80/job/nojs"
   Staging: "http://100.68.28.136:80/kubernetes/pods?namespace=fra-sn-staging"
 environments:
