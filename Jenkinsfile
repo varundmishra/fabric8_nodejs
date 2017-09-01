@@ -117,7 +117,7 @@ clientsNode(clientsImage:'fabric8/builder-clients:0.11'){
   }
 
   // newVersion = performCanaryRelease {}
-  //newVersion = getNewVersion {}
+  newVersion = getNewVersion {}
 
   container('clients') {
 
